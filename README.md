@@ -3,4 +3,6 @@ This application takes a screenshot of your computer and saves it on the desktop
 
 ![Screen Capture Gif](screen-capture.gif)
 
-You can download the application from here: ![Screen Capture 1.0](screen-capture-1.0.exe)
+You can download the application from here: ![screen-capture-1.0.exe](screen-capture-1.0.exe)
+
+The main source file is: ![/src/screen/capture/ScreenCapture.java](src/screen/capture/ScreenCapture.java)
